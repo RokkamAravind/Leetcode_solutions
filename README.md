@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0415-add-strings) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
