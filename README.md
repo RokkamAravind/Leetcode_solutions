@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
