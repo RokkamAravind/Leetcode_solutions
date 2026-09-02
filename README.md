@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
