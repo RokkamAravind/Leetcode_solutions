@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
