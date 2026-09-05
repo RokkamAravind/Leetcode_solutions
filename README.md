@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0509-fibonacci-number) |
