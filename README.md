@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -65,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
