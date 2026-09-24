@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2413-smallest-even-multiple](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
