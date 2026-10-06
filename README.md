@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/aravind2-ux/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Minimax
 |  |
